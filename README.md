@@ -1,4 +1,5 @@
 # How to deploy dash 
+demo project : https://template-plotly.herokuapp.com/
 ###### 1. Create project
 ```shell
 mkdir template-plotly
